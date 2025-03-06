@@ -23,7 +23,7 @@ Aqui estão as instruções para rodar o projeto localmente:
 Para clonar o projeto, use o seguinte comando:
 
 ```bash
-git clone https://github.com/danilofortes/amigo-secreto.git
+git clone https://github.com/danilofortes/amigo-secreto-alura
 ```
 
 ### Iniciando
@@ -49,7 +49,7 @@ O código implementa um sorteio de **Amigo Secreto** em JavaScript. Abaixo, est�
 
 Caso queira contribuir para o projeto, siga os seguintes passos:
 
-1. `git clone https://github.com/danilofortes/amigo-secreto.git`
+1. `git clone https://github.com/danilofortes/amigo-secreto-alura`
 2. `git checkout -b feature/NAME`
 3. Siga os padrões de commit
 4. Abra um Pull Request explicando o problema resolvido ou a funcionalidade adicionada
